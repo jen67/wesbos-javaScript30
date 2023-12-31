@@ -33,11 +33,11 @@ body,html {
   text-shadow: 0 0 .5rem black;
 }
 
-.key:hover{
+/* .key:hover{
   transform: scale(1.2);
   border-color:white;
   box-shadow: 0 0 1rem white;
-}
+} */
 
 .playing {
   transform: scale(1.1);
